@@ -1,3 +1,5 @@
 theme: jekyll-theme-tactile
 title: whiteboardr
 description: solve your whiteboard problems wiht whiteboardr!
+show_downloads: "false"
+
