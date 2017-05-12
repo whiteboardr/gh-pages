@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: whiteboardr
 description: solve your whiteboard problems with whiteboardr!
-show_downloads: "false"
+show_downloads: false
 
